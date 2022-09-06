@@ -1,0 +1,1 @@
+{"status": "passed", "name": "test_one", "labels": [{"name": "package", "value": "case/test_login"}], "stop": 1662471846100, "historyId": "fa8fb310e8695eb1c6a0da9cc56872e7", "start": 1662471846100, "fullName": "case/test_login.TestClass#test_one", "uuid": "c265343a-7366-43b0-a973-71d683f44f36"}
